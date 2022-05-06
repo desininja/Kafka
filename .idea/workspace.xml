@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8693237-866e-46f3-990c-bfe72b3f0622" name="Changes" comment="Kafka Java coding">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/himanshu/kafka/tutorial1/ConsumerDemoGroups.java" afterDir="false" />
+    <list default="true" id="e8693237-866e-46f3-990c-bfe72b3f0622" name="Changes" comment="kafka consumer groups commands">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/himanshu/kafka/tutorial1/ConsumerDemoWithThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651832433177</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kafka consumer groups commands">
+      <created>1651837196855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651837196855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kafka Java coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kafka Java coding" />
+    <MESSAGE value="kafka consumer groups commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="kafka consumer groups commands" />
   </component>
 </project>
